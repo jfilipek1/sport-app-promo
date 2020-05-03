@@ -3,4 +3,4 @@
 Aplikacja pozwala na szybkie i przejrzyste sprawdzenie statystyk: wyników meczów, nadchodzących rozgrywek. Strona wyświetla te wszystkie dane w jednym miejscu dając łatwy dostęp do informacji o naszej ulubionej drużynie. Użytkownik dzięki wyszukiwarce będzie mógł wybrać interesującą go drużynę sportową po czym wyświetlą się jej statystyki pobrane z zewnętrznych źródeł (liczba wygranych meczów). 
 
 
-[Link](url) and ![Image](src)
+![Image](./search.png)
